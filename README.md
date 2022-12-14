@@ -21,7 +21,7 @@ Li et al.2022[[1](#reference)] 에서 제안된 세션 기반 웹소설 추천�
   - 다양한 지표로 비즈니스 실효성 평가가 가능할 것 
     - e.g. 새로운 소설에 대한 유효소비 주기 변화, 추천된 새로운 소설과 이용자가 탐색한 새로운 소설 간의 유효소비 비율
 
-###### [프로젝트1 레파지토리 이동](https://github.com/namdo18/Attention4NovelRec)
+###### [[프로젝트1 레파지토리 이동](https://github.com/namdo18/Attention4NovelRec)]
 
 </br>
 
@@ -41,7 +41,7 @@ Li et al.2022[[1](#reference)] 에서 제안된 세션 기반 웹소설 추천�
     - 반복 소비에 편향된 연구 조건으로, 모델의 성능이 다양한 콘텐츠 소비 유도라는 추천시스템 목적과 무관
     - 유효한 소비로 볼 수 없는 소설들까지 추천 대상으로 학습함에 따라 실효성을 보장하지 못함
 
-###### [프로젝트2 레파지토리 이동](https://github.com/namdo18/NovelNet)  
+###### [[프로젝트2 레파지토리 이동](https://github.com/namdo18/NovelNet)]
 
 </br>
 
